@@ -1,5 +1,1 @@
-# CSIS2175002
-
-Welcome to CSIS2175!
-
-This is Iana.
+This repository contains exercises that I did to improve my skills in Java.
