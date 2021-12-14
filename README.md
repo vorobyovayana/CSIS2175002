@@ -1,1 +1,1 @@
-This repository contains exercises that I did to improve my skills in Java.
+This is a simple app for pizza ordering that I did as a training exercise.
